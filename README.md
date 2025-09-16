@@ -24,7 +24,7 @@ To get this project up and running on your local machine, follow these steps:
 **1. Clone the repository:**
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/gibril1435/ttt.git
 cd <your-repository-directory>
 ```
 
